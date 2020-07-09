@@ -11,12 +11,16 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 </p>
 
 
+### Experiências
 > PROGRAMADOR PHP (DESDE OUTUBRO/2011)
 - LIGHTSYSTEM SOFTWARE
-- Principais funções: Desenvolvimento de ERP usando PHP, MySQL, Postgres, jQuery, JS, CSS, HTML.
+
+> ASSISTENTE DE INFOMÁTICA
+- NOVORUMO TRANSPORTES
 
 
-> Conhecimentos
+
+### Conhecimentos
 - PHP - 90%
 - HTML5 - 70%
 - CSS3 - 70%
@@ -26,5 +30,9 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 - React - 75%
 - NodeJs - 73% 
 - MySQL - 85%
+
+### Educação  :mortar_board:
+- CURSANDO - SISTEMAS PARA INTERNET - FATEC 
+- CIÊNCIA DA COMPUTAÇÃO - UNIP - LIMEIRA
 
 
