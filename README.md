@@ -6,10 +6,12 @@ Meu nome é Paulo Henrique Amigoni. Sou desenvolvedor web e sou muito apaixonado
 
 Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussão e colaboração até o conceito e a execução, mas eu acho mais satisfatório ver o produto acabado fazendo tudo para você que foi criado para fazer.
 
-🏄‍♂️. 
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=WEB%20DEVELOPER&color=RED&style=for-the-badge"/>
+</p>
 
 
-PROGRAMADOR PHP (DESDE OUTUBRO/2011)
+> PROGRAMADOR PHP (DESDE OUTUBRO/2011)
 - LIGHTSYSTEM SOFTWARE
 - Principais funções: Desenvolvimento de ERP usando PHP, MySQL, Postgres, jQuery, JS, CSS, HTML.
 
