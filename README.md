@@ -1,10 +1,8 @@
-<p align="center">
-<img src="lg.png" alt="logo" width="150px"/>
-</p>
+
 
 <p align="center">
    <hr/>
-   </p>
+</p>
 
 <p align="center">
    
@@ -12,11 +10,16 @@
 
 </p>
 
+<p align="center">
+   <hr/>
+</p>
+
+
 Meu nome é Paulo Henrique Amigoni. Sou desenvolvedor web e sou muito apaixonado e dedicado ao meu trabalho. Com 8 anos de experiência como desenvolvedor Web profissional, adquiri as habilidades e os conhecimentos necessários para tornar o meu, seu, o nosso projeto um sucesso.
 
 Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussão e colaboração até o conceito e a execução, mas eu acho mais satisfatório ver o produto acabado fazendo tudo para você que foi criado para fazer.
 
-<p align="center">
+<p align="left">
    <img src="http://img.shields.io/static/v1?label=WEB&message=DEVELOPER&color=RED&style=for-the-badge"/>
 </p>
 
