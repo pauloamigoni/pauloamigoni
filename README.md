@@ -1,11 +1,12 @@
 
 
 <p align="center">
-   <hr/>
+  <img src="http://amigoni.com.br/octocatme.png" width="250" alt="accessibility text">
 </p>
 
+
 <p align="center">
-  <img src="http://amigoni.com.br/octocatme.png" width="350" alt="accessibility text">
+   <hr/>
 </p>
 
 
