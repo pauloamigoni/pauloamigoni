@@ -22,16 +22,7 @@
    <hr/>
 </p>
 
-<p>
- ______             ______   ____     _____    __  __   ______     
-/\  _  \   /'\_/`\ /\__  _\ /\  _`\  /\  __`\ /\ \/\ \ /\__  _\    
-\ \ \L\ \ /\      \\/_/\ \/ \ \ \L\_\\ \ \/\ \\ \ `\\ \\/_/\ \/    
- \ \  __ \\ \ \__\ \  \ \ \  \ \ \L_L \ \ \ \ \\ \ , ` \  \ \ \    
-  \ \ \/\ \\ \ \_/\ \  \_\ \__\ \ \/, \\ \ \_\ \\ \ \`\ \  \_\ \__ 
-   \ \_\ \_\\ \_\\ \_\ /\_____\\ \____/ \ \_____\\ \_\ \_\ /\_____\
-    \/_/\/_/ \/_/ \/_/ \/_____/ \/___/   \/_____/ \/_/\/_/ \/_____/
- </p> 
-  
+
 
 Meu nome é Paulo Henrique Amigoni. Sou desenvolvedor web e sou muito apaixonado e dedicado ao meu trabalho. Com 8 anos de experiência como desenvolvedor Web profissional, adquiri as habilidades e os conhecimentos necessários para tornar o meu, seu, o nosso projeto um sucesso.
 
