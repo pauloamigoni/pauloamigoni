@@ -21,9 +21,10 @@
 <p align="center">
    <hr/>
 </p>
-╔═╗╔╦╗╦╔═╗╔═╗╔╗╔╦<br>
-╠═╣║║║║║ ╦║ ║║║║║<br>
-╩  ╩╩ ╩╩╚═╝╚═╝╝╚╝╩<br>
+
+||A ||||M ||||I ||||G ||||O ||||N ||||I ||
+||__||||__||||__||||__||||__||||__||||__||
+|/__\||/__\||/__\||/__\||/__\||/__\||/__\|
 
 
 Meu nome é Paulo Henrique Amigoni. Sou desenvolvedor web e sou muito apaixonado e dedicado ao meu trabalho. Com 8 anos de experiência como desenvolvedor Web profissional, adquiri as habilidades e os conhecimentos necessários para tornar o meu, seu, o nosso projeto um sucesso.
