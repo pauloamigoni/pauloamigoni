@@ -1,7 +1,5 @@
 
 
-
-
 <p align="center">
   <img src="http://amigoni.com.br/octocatme.png" width="250" alt="accessibility text">
 </p>
@@ -56,5 +54,24 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 ### Educação  :mortar_board:
 - CURSANDO - SISTEMAS PARA INTERNET - FATEC 
 - CIÊNCIA DA COMPUTAÇÃO - UNIP - LIMEIRA
+
+
+### Work Experience
+In the overview below you will find my most recent work experience:
+
+
+[<img align="left" height="94px" width="94px" alt="Feedz" src="https://feedz.com.br/assets/img/marca-degrade.webp"/>](https://feedz.com.br/)
+
+**Software Engineer** \
+[**Feedz**](https://feedz.com.br/) \
+Languages & Technologies: `PHP` \
+Featured Projects: [App](https://feedz.com.br/)
+<br/>
+<br/>
+
+Please find me on [LinkedIn](https://www.linkedin.com/in/pauloamigoni/) for a more detailed description of my full work experience, education and certification.
+
+
+
 
 
