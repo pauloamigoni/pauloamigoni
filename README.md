@@ -32,7 +32,17 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 
 
 ### Experiências
-> PROGRAMADOR PHP (DESDE OUTUBRO/2011)
+[<img align="left" height="70px" width="37px" alt="Feedz" src="https://feedz.com.br/assets/img/marca-degrade.webp"/>](https://feedz.com.br/)
+
+**PROGRAMADOR PHP** \
+[**Feedz**](https://feedz.com.br/) \
+Projeto: [App](https://feedz.com.br/)
+<br/>
+
+> PROGRAMADOR PHP
+- VR SOFTWARE
+
+> PROGRAMADOR PHP
 - LIGHTSYSTEM SOFTWARE
 
 > ASSISTENTE DE INFOMÁTICA
@@ -56,20 +66,6 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 - CIÊNCIA DA COMPUTAÇÃO - UNIP - LIMEIRA
 
 
-### Work Experience
-In the overview below you will find my most recent work experience:
-
-
-[<img align="left" height="94px" width="94px" alt="Feedz" src="https://feedz.com.br/assets/img/marca-degrade.webp"/>](https://feedz.com.br/)
-
-**Software Engineer** \
-[**Feedz**](https://feedz.com.br/) \
-Languages & Technologies: `PHP` \
-Featured Projects: [App](https://feedz.com.br/)
-<br/>
-<br/>
-
-Please find me on [LinkedIn](https://www.linkedin.com/in/pauloamigoni/) for a more detailed description of my full work experience, education and certification.
 
 
 
