@@ -23,26 +23,26 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 
 ### Experiências
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.feedz.com.br/assets/img/growth/totvs.webp"/>](https://www.feedz.com.br/)
+[<img align="left" height="auto" width="80px" alt="Warpnet" src="https://www.feedz.com.br/assets/img/growth/totvs.webp"/>](https://www.feedz.com.br/)
 
 **Desenvolvedor BackEnd** \
 [**Feedz**](https://www.feedz.com.br/) • Atual \
-Linguagens & Tecnologias: `PHP`, `Mysql`, `Laravel`, `JavaScript`, `VueJs`,\
+Linguagens & Tecnologias: `PHP`, `Mysql`, `Laravel`, `JavaScript`, `VueJs`\
 <br/>
 
-[<img align="left" height="auto" width="80px" alt="Feedz" src="https://www.feedz.com.br/assets/img/growth/totvs.webp"/>]
-[**Feedz**](https://feedz.com.br/)<br/>
-<sub>**PROGRAMADOR PHP**</sub>
-<br />
-<br />
-[<img align="left" height="auto" width="90px" alt="VrSoft" src="https://www.vrsoft.com.br/storage/settings/May2021/lZA5eprMiWbhXfVBCF39.png"/>]
-[**VR Soft**](https://www.vrsoft.com.br/)<br/>
-<sub>**PROGRAMADOR PHP**</sub>
-<br />
-<br />
-[**LIGHTSYSTEM SOFTWARE**](https://www.lightsystemsoft.com.br/) <br/>
-<sub>**PROGRAMADOR PHP**</sub>
-<br />
+
+[<img align="left" height="auto" width="80px" alt="Warpnet" src="https://www.vrsoft.com.br/storage/settings/May2021/lZA5eprMiWbhXfVBCF39.png"/>](https://www.vrsoft.com.br/)
+
+**Desenvolvedor BackEnd** \
+[**VR Soft**](https://www.vrsoft.com.br/) • Atual \
+Linguagens & Tecnologias: `PHP`, `Mysql`, `JavaScript`, `VueJs`\
+<br/>
+
+**Desenvolvedor FullStack** \
+[**Light System**](https://www.lightsystemsoft.com.br/) • Atual \
+Linguagens & Tecnologias: `PHP`, `Mysql`, `JavaScript`, `CodeIgniter`, `jQuery`\
+<br/>
+
 
 
 
