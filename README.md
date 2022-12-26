@@ -29,14 +29,14 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 <br />
 
 PROGRAMADOR PHP
-<p align="left" size="11"> VR SOFTWARE</p>
-<font size="+1">VR SOFTWARE</font>
+<font size="1">VR SOFTWARE</font>
 
 PROGRAMADOR PHP
-<p align="left" size="11"> LIGHTSYSTEM SOFTWARE</p>
+<font size="1">LIGHTSYSTEM SOFTWARE</font>
 
 ASSISTENTE DE INFOMÁTICA
-<p align="left" size="11">NOVORUMO TRANSPORTES</p>
+<font size="1">NOVORUMO TRANSPORTES</font>
+
 
 
 ### Conhecimentos
