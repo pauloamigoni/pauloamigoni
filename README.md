@@ -34,7 +34,7 @@ Linguagens & Tecnologias: `PHP`, `Mysql`, `Laravel`, `JavaScript`, `VueJs`\
 [<img align="left" height="auto" width="80px" alt="Warpnet" src="https://www.vrsoft.com.br/storage/settings/May2021/lZA5eprMiWbhXfVBCF39.png"/>](https://www.vrsoft.com.br/)
 
 **Desenvolvedor BackEnd** \
-[**VR Soft**](https://www.vrsoft.com.br/) • Atual \
+[**VR Soft**](https://www.vrsoft.com.br/)\
 Linguagens & Tecnologias: `PHP`, `Mysql`, `JavaScript`, `VueJs`\
 <br/>
 
