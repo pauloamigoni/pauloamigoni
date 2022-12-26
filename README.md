@@ -30,6 +30,7 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 
 PROGRAMADOR PHP
 <p align="left" size="11"> VR SOFTWARE</p>
+<font size="+1">VR SOFTWARE</font>
 
 PROGRAMADOR PHP
 <p align="left" size="11"> LIGHTSYSTEM SOFTWARE</p>
