@@ -28,12 +28,11 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 <br />
 <br />
 [<img align="left" height="auto" width="90px" alt="VrSoft" src="https://www.vrsoft.com.br/storage/settings/May2021/lZA5eprMiWbhXfVBCF39.png"/>]
-[**VR Soft**](https://www.vrsoft.com.br/)
+[**VR Soft**](https://www.vrsoft.com.br/)<br/>
 <sub>**PROGRAMADOR PHP**</sub>
 <br />
 <br />
-
-(https://www.lightsystemsoft.com.br/ls/img/logo@2x.png)"/>](https://www.lightsystemsoft.com.br/)
+[(https://www.lightsystemsoft.com.br/ls/img/logo@2x.png)"/>](https://www.lightsystemsoft.com.br/)
 [**LIGHTSYSTEM SOFTWARE**](https://www.lightsystemsoft.com.br/) 
 <sub>**PROGRAMADOR PHP**</sub>
 <br />
