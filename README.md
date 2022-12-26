@@ -23,10 +23,15 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 
 ### Experiências
 [<img align="left" height="auto" width="80px" alt="Feedz" src="https://www.feedz.com.br/assets/img/growth/totvs.webp"/>](https://feedz.com.br/)
-
 **PROGRAMADOR PHP** \
 [**Feedz**](https://feedz.com.br/) 
 <br />
+
+[<img align="left" height="auto" width="80px" alt="VrSoft" src="https://www.vrsoft.com.br/storage/settings/May2021/lZA5eprMiWbhXfVBCF39.png"/>](https://www.vrsoft.com.br/)
+**PROGRAMADOR PHP** \
+[**VrSoft**](https://www.vrsoft.com.br/) 
+<br />
+
 
 > PROGRAMADOR PHP
 - <sub><font size="1">VR SOFTWARE</font></sub><br/>
