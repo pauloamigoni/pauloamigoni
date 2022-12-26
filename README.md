@@ -26,16 +26,16 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 
 **PROGRAMADOR PHP** \
 [**Feedz**](https://feedz.com.br/) 
-\
+<br />
 
 > PROGRAMADOR PHP
-- VR SOFTWARE
+-<p align="left" size="11"> VR SOFTWARE</p>
 
 > PROGRAMADOR PHP
-- LIGHTSYSTEM SOFTWARE
+-<p align="left" size="11"> LIGHTSYSTEM SOFTWARE</p>
 
 > ASSISTENTE DE INFOMÁTICA
-- NOVORUMO TRANSPORTES
+- <p align="left" size="11">NOVORUMO TRANSPORTES</p>
 
 
 ### Conhecimentos
