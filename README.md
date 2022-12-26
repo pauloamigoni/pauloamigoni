@@ -27,7 +27,7 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 **PROGRAMADOR PHP** \
 [**Feedz**](https://feedz.com.br/) \
 \
-<br/><br/><br/>
+<br/>
 
 > PROGRAMADOR PHP
 - VR SOFTWARE
