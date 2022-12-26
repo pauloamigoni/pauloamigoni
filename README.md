@@ -23,8 +23,8 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 
 ### Experiências
 [<img align="left" height="auto" width="80px" alt="Feedz" src="https://www.feedz.com.br/assets/img/growth/totvs.webp"/>](https://feedz.com.br/)
-[**Feedz**](https://feedz.com.br/)\ 
-<sub>**PROGRAMADOR PHP** </sub>
+[**Feedz**](https://feedz.com.br/)<br/>
+<sub>**PROGRAMADOR PHP**</sub>
 
 <br />
 <br />
