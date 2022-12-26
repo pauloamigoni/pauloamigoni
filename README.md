@@ -27,19 +27,17 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 **PROGRAMADOR PHP** \
 [**Feedz**](https://feedz.com.br/) \
 \
-<br/>
 
 > PROGRAMADOR PHP
 - VR SOFTWARE
-
+\
 > PROGRAMADOR PHP
 - LIGHTSYSTEM SOFTWARE
-
+\
 > ASSISTENTE DE INFOMÁTICA
 - NOVORUMO TRANSPORTES
-
-
-
+\
+\
 ### Conhecimentos
 - PHP - 90%
 - HTML5 - 70%
