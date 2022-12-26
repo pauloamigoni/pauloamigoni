@@ -22,17 +22,17 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 
 
 ### Experiências
-[<img align="left" height="auto" width="80px" alt="Feedz" src="https://www.feedz.com.br/assets/img/growth/totvs.webp"/>]
+<img align="left" height="auto" width="80px" alt="Feedz" src="https://www.feedz.com.br/assets/img/growth/totvs.webp"/>
 [**Feedz**](https://feedz.com.br/)<br/>
 <sub>**PROGRAMADOR PHP**</sub>
 <br />
 <br />
-[<img align="left" height="auto" width="90px" alt="VrSoft" src="https://www.vrsoft.com.br/storage/settings/May2021/lZA5eprMiWbhXfVBCF39.png"/>]
+<img align="left" height="auto" width="90px" alt="VrSoft" src="https://www.vrsoft.com.br/storage/settings/May2021/lZA5eprMiWbhXfVBCF39.png"/>
 [**VR Soft**](https://www.vrsoft.com.br/)<br/>
 <sub>**PROGRAMADOR PHP**</sub>
 <br />
 <br />
-[**LIGHTSYSTEM SOFTWARE**](https://www.lightsystemsoft.com.br/) 
+[**LIGHTSYSTEM SOFTWARE**](https://www.lightsystemsoft.com.br/) <br/>
 <sub>**PROGRAMADOR PHP**</sub>
 <br />
 
