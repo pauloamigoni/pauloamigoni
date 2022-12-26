@@ -28,14 +28,14 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 [**Feedz**](https://feedz.com.br/) 
 <br />
 
-PROGRAMADOR PHP<br/>
-<sub><font size="1">VR SOFTWARE</font></sub><br/>
+> PROGRAMADOR PHP<br/>
+- <sub><font size="1">VR SOFTWARE</font></sub><br/>
 
-PROGRAMADOR PHP<br/>
-<sub><font size="1">LIGHTSYSTEM SOFTWARE</font></sub><br/>
+> PROGRAMADOR PHP<br/>
+- <sub><font size="1">LIGHTSYSTEM SOFTWARE</font></sub><br/>
 
-ASSISTENTE DE INFOMÁTICA<br/>
-<sub><font size="1">NOVORUMO TRANSPORTES</font></sub><br/>
+> ASSISTENTE DE INFOMÁTICA<br/>
+- <sub><font size="1">NOVORUMO TRANSPORTES</font></sub><br/>
 
 
 
