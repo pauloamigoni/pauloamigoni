@@ -56,6 +56,10 @@ Linguagens & Tecnologias: `PHP`, `Mysql`, `JavaScript`, `CodeIgniter`, `jQuery`\
  `React`,
  `NodeJs`,
  `MySQL`,
+ 
+ ### Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/>
 
 ### Educação  :mortar_board:
 - SISTEMAS PARA INTERNET - FATEC 
