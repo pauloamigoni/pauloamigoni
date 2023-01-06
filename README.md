@@ -19,17 +19,17 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 ### Experiências
 
 
-[<img src="http://img.shields.io/static/v1?label=Desenvolvedor%20BackEnd&message=FEEDZ&color=RED&style=for-the-badge"/>(https://www.feedz.com.br/)]\
+<img src="http://img.shields.io/static/v1?label=Desenvolvedor%20BackEnd&message=FEEDZ&color=RED&style=for-the-badge"/>\
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="30" height="30" /> \
 <br/>
 
-[<img src="http://img.shields.io/static/v1?label=Desenvolvedor%20BackEnd&message=VR Soft&color=RED&style=for-the-badge"/>(https://www.vrsoft.com.br/)] \
+<img src="http://img.shields.io/static/v1?label=Desenvolvedor%20BackEnd&message=VR Soft&color=RED&style=for-the-badge"/>\
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="30" height="30" /> 
 <br/>
 
-<img src="http://img.shields.io/static/v1?label=Desenvolvedor%20FullStack&message=LightSystem Soft&color=RED&style=for-the-badge"/>](https://www.lightsystemsoft.com.br/) \
+<img src="http://img.shields.io/static/v1?label=Desenvolvedor%20FullStack&message=LightSystem Soft&color=RED&style=for-the-badge"/> \
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30" /> 
 <br/>
