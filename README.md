@@ -38,7 +38,7 @@ Linguagens & Tecnologias: `PHP`, `Mysql`, `JavaScript`, `VueJs`\
 <br/>
 
 **Desenvolvedor FullStack** \
-[**Light System**](https://www.lightsystemsoft.com.br/) • Atual \
+[**Light System**](https://www.lightsystemsoft.com.br/) \
 Linguagens & Tecnologias: `PHP`, `Mysql`, `JavaScript`, `CodeIgniter`, `jQuery`\
 <br/>
 
