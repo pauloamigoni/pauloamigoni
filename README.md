@@ -24,21 +24,24 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 
 [<img align="left" height="auto" width="80px" alt="Warpnet" src="https://www.feedz.com.br/assets/img/growth/totvs.webp"/>](https://www.feedz.com.br/)
 
-**Desenvolvedor BackEnd** \
-[**Feedz**](https://www.feedz.com.br/) • Atual \
+**Desenvolvedor BackEnd** 
+[**Feedz**](https://www.feedz.com.br/) • Atual 
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="30" height="30" /> \
 <br/>
 
 
 [<img align="left" height="auto" width="80px" alt="Warpnet" src="https://www.vrsoft.com.br/storage/settings/May2021/lZA5eprMiWbhXfVBCF39.png"/>](https://www.vrsoft.com.br/)
 
-**Desenvolvedor BackEnd** \
-[**VR Soft**](https://www.vrsoft.com.br/)\ <br/>
+**Desenvolvedor BackEnd** 
+[**VR Soft**](https://www.vrsoft.com.br/) 
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="30" height="30" /> 
 <br/>
 
-**Desenvolvedor FullStack** \
-[**Light System**](https://www.lightsystemsoft.com.br/) \ <br/>
+**Desenvolvedor FullStack** 
+[**Light System**](https://www.lightsystemsoft.com.br/)
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30" /> 
 <br/>
 
