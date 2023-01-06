@@ -21,14 +21,9 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 
 <img src="http://img.shields.io/static/v1?label=Desenvolvedor%20BackEnd&message=FEEDZ&color=RED&style=for-the-badge"/>\
 <br/>
-<br/>
-
 <img src="http://img.shields.io/static/v1?label=Desenvolvedor%20BackEnd&message=VR%20Soft&color=RED&style=for-the-badge"/>\
 <br/>
-<br/>
-
 <img src="http://img.shields.io/static/v1?label=Desenvolvedor%20FullStack&message=LightSystem%20Soft&color=RED&style=for-the-badge"/> \
-<br/>
 <br/>
 
 
