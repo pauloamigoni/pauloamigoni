@@ -23,7 +23,7 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 ### Experiências
 
 [<img align="left" height="auto" width="80px" alt="Warpnet" src="https://www.feedz.com.br/assets/img/growth/totvs.webp"/>](https://www.feedz.com.br/)
-
+<img src="http://img.shields.io/static/v1?label=Desenvolverdor Web &message=Feedz&color=RED&style=for-the-badge"/>
 **Desenvolvedor BackEnd** \
 [**Feedz**](https://www.feedz.com.br/) • Atual 
 <br/>
