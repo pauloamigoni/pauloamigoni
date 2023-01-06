@@ -23,6 +23,14 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
    <img src="http://img.shields.io/static/v1?label=Desenvolvedor%20BackEnd&message=FEEDZ&color=RED&style=for-the-badge"/>
 </p>
 
+<p align="left">
+   <img src="http://img.shields.io/static/v1?label=Desenvolvedor%20BackEnd&message=VR Soft&color=RED&style=for-the-badge"/>
+</p>
+
+<p align="left">
+   <img src="http://img.shields.io/static/v1?label=Desenvolvedor%20FullStack&message=LightSystem Soft&color=RED&style=for-the-badge"/>
+</p>
+
 
 ### Experiências
 
@@ -43,7 +51,7 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="30" height="30" /> 
 <br/>
 
-**Desenvolvedor FullStack** \
+<img src="http://img.shields.io/static/v1?label=Desenvolvedor%20FullStack&message=LightSystem Soft&color=RED&style=for-the-badge"/> \
 [**Light System**](https://www.lightsystemsoft.com.br/)
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30" /> 
