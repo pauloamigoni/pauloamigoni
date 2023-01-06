@@ -11,7 +11,6 @@
 </p>
 
 
-
 Meu nome é Paulo Henrique Amigoni. Sou desenvolvedor web e sou muito apaixonado e dedicado ao meu trabalho. Com 8 anos de experiência como desenvolvedor Web profissional, adquiri as habilidades e os conhecimentos necessários para tornar o meu, seu, o nosso projeto um sucesso.
 
 Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussão e colaboração até o conceito e a execução, mas eu acho mais satisfatório ver o produto acabado fazendo tudo para você que foi criado para fazer.
@@ -44,26 +43,11 @@ Linguagens & Tecnologias: `PHP`, `Mysql`, `JavaScript`, `CodeIgniter`, `jQuery`\
 <br/>
 
 
-
-
 ### Conhecimentos
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
-          
- 
+           
 
 ### Educação  :mortar_board:
 - SISTEMAS PARA INTERNET - FATEC 
 - CIÊNCIA DA COMPUTAÇÃO - UNIP - LIMEIRA
-
-
-
-<div>
-<a href="https://github.com/pauloamigoni">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloamigoni&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloamigoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
-
-
