@@ -59,4 +59,4 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 - SISTEMAS PARA INTERNET - FATEC 
 - CIÊNCIA DA COMPUTAÇÃO - UNIP - LIMEIRA
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=pauloamigoni
+
