@@ -47,15 +47,15 @@ Linguagens & Tecnologias: `PHP`, `Mysql`, `JavaScript`, `CodeIgniter`, `jQuery`\
 
 
 ### Conhecimentos
-- `PHP - 90%`
-- `HTML5 - 70%`
-- `CSS3 - 70%`
-- `jQuery - 80%`
-- `CodeIgniter - 75%`
-- `Laravel - 65%`
-- `React - 75%`
-- `NodeJs - 73%` 
-- `MySQL - 85%`
+ `PHP`,
+ `HTML5`,
+ `CSS3`,
+ `jQuery`,
+ `CodeIgniter`,
+ `Laravel`,
+ `React`,
+ `NodeJs`,
+ `MySQL`,
 
 ### Educação  :mortar_board:
 - SISTEMAS PARA INTERNET - FATEC 
