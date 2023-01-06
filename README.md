@@ -19,6 +19,10 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
    <img src="http://img.shields.io/static/v1?label=WEB&message=DEVELOPER&color=RED&style=for-the-badge"/>
 </p>
 
+<p align="left">
+   <img src="http://img.shields.io/static/v1?label=Desenvolvedor%20BackEnd&message=FEEDZ&color=RED&style=for-the-badge"/>
+</p>
+
 
 ### Experiências
 
