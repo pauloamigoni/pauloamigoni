@@ -19,24 +19,11 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
    <img src="http://img.shields.io/static/v1?label=WEB&message=DEVELOPER&color=RED&style=for-the-badge"/>
 </p>
 
-<p align="left">
-   <img src="http://img.shields.io/static/v1?label=Desenvolvedor%20BackEnd&message=FEEDZ&color=RED&style=for-the-badge"/>
-</p>
-
-<p align="left">
-   <img src="http://img.shields.io/static/v1?label=Desenvolvedor%20BackEnd&message=VR Soft&color=RED&style=for-the-badge"/>
-</p>
-
-<p align="left">
-   <img src="http://img.shields.io/static/v1?label=Desenvolvedor%20FullStack&message=LightSystem Soft&color=RED&style=for-the-badge"/>
-</p>
-
-
 ### Experiências
 
 [<img align="left" height="auto" width="80px" alt="Warpnet" src="https://www.feedz.com.br/assets/img/growth/totvs.webp"/>](https://www.feedz.com.br/)
 
-**Desenvolvedor BackEnd** \
+<img src="http://img.shields.io/static/v1?label=Desenvolvedor%20BackEnd&message=FEEDZ&color=RED&style=for-the-badge"/>\
 [**Feedz**](https://www.feedz.com.br/) • Atual 
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="30" height="30" /> \
@@ -45,7 +32,7 @@ Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussã
 
 [<img align="left" height="auto" width="80px" alt="Warpnet" src="https://www.vrsoft.com.br/storage/settings/May2021/lZA5eprMiWbhXfVBCF39.png"/>](https://www.vrsoft.com.br/)
 
-**Desenvolvedor BackEnd** \
+<img src="http://img.shields.io/static/v1?label=Desenvolvedor%20BackEnd&message=VR Soft&color=RED&style=for-the-badge"/> \
 [**VR Soft**](https://www.vrsoft.com.br/) 
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="30" height="30" /> 
