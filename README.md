@@ -10,11 +10,17 @@
    <hr/>
 </p>
 
+E aí, meu nome é Paulo Henrique Amigoni, mas pode me chamar de Amigoni, não ligo para formalidade. Nesses meus 141.500 dias vividos... a maior parte deles é me dedicando a desenvolver aplicativos para a web usando principalmente PHP. É o que eu faço pra sobreviver e eu simplesmente adoro isso! Todo dia é uma aventura nova e eu tô sempre aprendendo algo novo e empolgante.
 
-Meu nome é Paulo Henrique Amigoni. Sou desenvolvedor web e sou muito apaixonado e dedicado ao meu trabalho. Com 8 anos de experiência como desenvolvedor Web profissional, adquiri as habilidades e os conhecimentos necessários para tornar o meu, seu, o nosso projeto um sucesso.
+Mas quando eu tô de bobeira, gosto de contribuir com a galera da comunidade de desenvolvimento web. Seja ajudando um novato com códigos ou simplesmente batendo um papo descontraído ou até mesmo participando de conferências. Pra mim, manter essa vibe de aprendizado é essencial pra ficar atualizado e não perder a mão. E também é uma forma de retribuir pra galera que me ajudou quando eu comecei nessa bagaça.
 
-Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussão e colaboração até o conceito e a execução, mas eu acho mais satisfatório ver o produto acabado fazendo tudo para você que foi criado para fazer.
+E além de programar, eu também curto passar um tempo com a família, meus bichinhos de estimação, amigos e, é claro, com a patroa! A gente tá sempre se aventurando juntos, seja indo ao cinema, jogando no sofá ou planejando uma viagem pra algum lugar novo.
 
+Eu me formei em Ciência da Computação pela UNIP de Limeira e, recentemente, concluí o curso de Sistemas para Internet pela FATEC de Araras. Trampo numa empresa de desenvolvimento de software, o que me ajudou bastante a aprimorar minhas habilidades e crescer como desenvolvedor.
+
+E quando não tô no trabalho, eu geralmente tô aprendendo novas técnicas e tentando ajudar outras pessoas a aprenderem sobre desenvolvimento web através de grupos de ajuda. Escrever códigos é minha paixão e eu sou bem humorado e entusiasta.
+
+Já trabalhei com uma porrada de clientes de alto nível, tanto direta quanto indiretamente, e me sinto confortável trabalhando sob pressão pra especificações complexas. Mas no fim do dia, o que importa mesmo é a satisfação de entregar um trabalho bem feito e ver o resultado do seu esforço.
 
 ### Experiências
 
